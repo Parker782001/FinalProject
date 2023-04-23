@@ -29,7 +29,7 @@ Preview Picture
 
 6 changed carousel on front page
 
-7
+7 changed code for carousel to last longer
 
 8
 
