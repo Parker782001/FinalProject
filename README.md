@@ -23,8 +23,7 @@ Preview Picture
 
 3 added functionality to multiple buttons
 
-4
-
+4 added add to cart buttons for each product
 
 5
 
