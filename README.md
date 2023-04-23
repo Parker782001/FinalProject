@@ -25,7 +25,7 @@ Preview Picture
 
 4 added add to cart buttons for each product
 
-5
+5 changed submit button on form
 
 6
 
