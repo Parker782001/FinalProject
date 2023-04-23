@@ -27,7 +27,7 @@ Preview Picture
 
 5 changed submit button on form
 
-6
+6 changed carousel on front page
 
 7
 
