@@ -1,4 +1,4 @@
-#Final Project
+# Final Project
 
 # Parker Hahn
 
@@ -15,7 +15,7 @@ Preview Picture
 
 ![image]()
 
-#Changes
+# Changes
 1 Changed images to own images
 2 Changed Blog Page to coming soon
 3 added functionality to multiple buttons
