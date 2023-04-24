@@ -31,9 +31,9 @@ Preview Picture
 
 7 changed code for carousel to last longer
 
-8
+8 Changed color of price text
 
-9
+9 added descriptions for each item
 
 10
 
