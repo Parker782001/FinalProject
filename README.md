@@ -35,7 +35,7 @@ Preview Picture
 
 9 added descriptions for each item
 
-10
+10 changed some jquery css settings
 
 11
 
