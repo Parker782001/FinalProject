@@ -13,7 +13,7 @@
 
 Preview Picture
 
-![image]()
+![image](https://github.com/Parker782001/FinalProject/blob/main/FPreview.png)
 
 # Changes
 
